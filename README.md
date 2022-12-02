@@ -2,4 +2,4 @@
 # project1-2021
 
 
-- **Homework  --->  [Click Here]([https://github.com/Web-dut-2022fall/project-1-xffpp])**
+- **Homework --->  [Click Here](https://github.com/Web-dut-2022fall/project-1-xffp/)**
